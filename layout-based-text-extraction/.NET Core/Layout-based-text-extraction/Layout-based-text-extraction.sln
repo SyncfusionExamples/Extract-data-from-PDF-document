@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layout-based-text-extraction", "Layout-based-text-extraction\Layout-based-text-extraction.csproj", "{5489E2BF-F8B3-4F00-A2A1-ACE7B3D37C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5489E2BF-F8B3-4F00-A2A1-ACE7B3D37C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5489E2BF-F8B3-4F00-A2A1-ACE7B3D37C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5489E2BF-F8B3-4F00-A2A1-ACE7B3D37C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5489E2BF-F8B3-4F00-A2A1-ACE7B3D37C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DCC5245-BCFE-442C-95E9-227509F94718}
+	EndGlobalSection
+EndGlobal
