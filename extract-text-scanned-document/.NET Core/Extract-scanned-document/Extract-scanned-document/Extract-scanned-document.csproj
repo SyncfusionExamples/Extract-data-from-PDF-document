@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>Extract_scanned_document</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Syncfusion.PDF.OCR.Net.Core" Version="18.1.0.52" />
+    <PackageReference Include="Syncfusion.PDF.OCR.Net.Core" Version="*" />
   </ItemGroup>
 
 </Project>
